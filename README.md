@@ -56,13 +56,12 @@ I am a Front-End Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>
 </div>
----
 
+---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhamadcheaito&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadcheaito&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
----
 
 ### 🥇 Latest Awards :
 <a href="https://app.daily.dev/muhamadcheaito"><img src="https://api.daily.dev/devcards/bb0b0d7a387748e093b3c79c82442654.png?r=uca" width="300" alt="Muhamad Cheaito's Dev Card"/></a>
