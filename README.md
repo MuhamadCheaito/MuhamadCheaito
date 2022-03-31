@@ -62,5 +62,7 @@ I am a Front-End Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhamadcheaito&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadcheaito&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-<a href="https://app.daily.dev/muhamadcheaito"><img src="https://api.daily.dev/devcards/bb0b0d7a387748e093b3c79c82442654.png?r=uca" width="400" alt="Muhamad Cheaito's Dev Card"/></a>
+### 🥇 Latest Awards :
+<a href="https://app.daily.dev/muhamadcheaito"><img src="https://api.daily.dev/devcards/bb0b0d7a387748e093b3c79c82442654.png?r=uca" width="300" alt="Muhamad Cheaito's Dev Card"/></a>
