@@ -65,3 +65,10 @@ I am a Front-End Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 ### 🥇 Latest Awards :
 <a href="https://app.daily.dev/muhamadcheaito"><img src="https://api.daily.dev/devcards/bb0b0d7a387748e093b3c79c82442654.png?r=uca" width="300" alt="Muhamad Cheaito's Dev Card"/></a>
+
+### Books I like :
+<div>
+  <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543945452l/43125355._SY475_.jpg" title="Dive Into Design Patterns" alt="Dive Into Design Patterns" height="" width="200px" height="290px"/> &nbsp;
+  <img src="https://images-na.ssl-images-amazon.com/images/I/41xShlnTZTL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg" title="Clean Code" alt="Clean Code"/>&nbsp;
+  <img src="https://m.media-amazon.com/images/P/0997316004.01._SCLZZZZZZZ_SX500_.jpg" title="Computer Science Distilled" alt="Computer Science Distilled" width="200px" height="290px"/>
+</div>
