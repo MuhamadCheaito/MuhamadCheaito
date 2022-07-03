@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me :
 
-I am a Front-End Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lebanon 🇱🇧.
+I am a Full Stack Engineer <a href="https://www.koein.com/">@Koein</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lebanon 🇱🇧.
 
 - :telescope: I’m working as a Freelance Front End Engineer and contributing to frontend and sometimes backend for building web applications.
 
