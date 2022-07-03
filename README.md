@@ -5,8 +5,6 @@
 <div id="badges" align="center" style="margin-top:10px;">
   <a href="https://www.linkedin.com/in/mohamad-cheaito-3718ab115" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://wa.me/qr/HW5RN4XGESM4B1">
-  <img src="https://img.shields.io/badge/(+961)76856722-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/></a>
   <a href="https://twitter.com/mohamadch92">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </div>
